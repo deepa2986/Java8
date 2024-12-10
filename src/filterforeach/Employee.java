@@ -1,4 +1,4 @@
-package java8.streams.filterforeach;
+package filterforeach;
 
 public class Employee {
 

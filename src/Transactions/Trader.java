@@ -1,4 +1,4 @@
-package modernjava.Transactions;
+package Transactions;
 
 public class Trader {
 

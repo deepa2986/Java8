@@ -1,4 +1,4 @@
-package java8.streams.reduce;
+package reduce;
 
 public class Employee {
 

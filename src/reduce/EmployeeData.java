@@ -1,4 +1,4 @@
-package java8.streams.reduce;
+package reduce;
 
 import java.util.List;
 import java.util.stream.Collectors;

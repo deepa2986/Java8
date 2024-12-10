@@ -1,6 +1,5 @@
-package java8.streams;
+package programs;
 
-import java.security.MessageDigest;
 import java.util.Map;
 
 

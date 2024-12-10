@@ -1,4 +1,4 @@
-package java8.streams;
+package programs;
 
 import java.util.HashMap;
 import java.util.Map;

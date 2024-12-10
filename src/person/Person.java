@@ -1,4 +1,4 @@
-package modernjava.person;
+package person;
 
 public class Person {
 

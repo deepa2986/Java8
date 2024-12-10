@@ -1,4 +1,4 @@
-package java8.streams;
+package programs;
 
 import java8.streams.mapflatmap.Customer;
 import java8.streams.mapflatmap.CustomerData;

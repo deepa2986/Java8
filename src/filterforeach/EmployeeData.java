@@ -1,4 +1,4 @@
-package java8.streams.filterforeach;
+package filterforeach;
 
 import java.util.ArrayList;
 import java.util.List;

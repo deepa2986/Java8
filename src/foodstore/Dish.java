@@ -1,4 +1,4 @@
-package modernjava.foodstore;
+package foodstore;
 
 public class Dish {
 

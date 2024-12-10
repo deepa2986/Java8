@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a846e833-dde2-42a5-9950-1f9c684768bf" name="Changes" comment="" />
+    <list default="true" id="a846e833-dde2-42a5-9950-1f9c684768bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transactions/Trader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transactions/Trader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transactions/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transactions/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transactions/TransactionsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transactions/TransactionsMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/filterforeach/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/filterforeach/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/filterforeach/EmployeeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/filterforeach/EmployeeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/filterforeach/EmployeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/filterforeach/EmployeeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/foodstore/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foodstore/Dish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/foodstore/DishCollectorMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foodstore/DishCollectorMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/foodstore/DishMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foodstore/DishMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/foodstore/DishMainWithStreamSlicing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foodstore/DishMainWithStreamSlicing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/foodstore/DishTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foodstore/DishTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/foodstore/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foodstore/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapflatmap/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapflatmap/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapflatmap/CustomerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapflatmap/CustomerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mapflatmap/CustomerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mapflatmap/CustomerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/PersonData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/PersonData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person/PersonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/person/PersonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/FilterAndForEachExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/FilterAndForEachExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/MapSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/MapSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/MapSortingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/MapSortingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/OptionalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/OptionalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/ReduceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/ReduceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/ReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/ReplaceAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/SkipAndLimitExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/SkipAndLimitExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/StreamMiscellaneous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/StreamMiscellaneous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reduce/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reduce/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reduce/EmployeeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reduce/EmployeeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reduce/EmployeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reduce/EmployeeMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +54,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Deepa G K/Programs/Java8/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Deepa G K\Programs\Java8\src" />
+      <recent name="C:\Users\Deepa G K\Programs\Java8\src\streams" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
